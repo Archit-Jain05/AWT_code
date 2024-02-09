@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\sbmpc.student\\source\\repos\\filecopy\\filecopy\\filecopy.csproj",
+      "projectUniqueName": "F:\\T001_A\\AWT\\filecopy\\filecopy\\filecopy.csproj",
       "projectName": "filecopy",
-      "projectPath": "C:\\Users\\sbmpc.student\\source\\repos\\filecopy\\filecopy\\filecopy.csproj",
+      "projectPath": "F:\\T001_A\\AWT\\filecopy\\filecopy\\filecopy.csproj",
       "packagesPath": "C:\\Users\\sbmpc.student\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\sbmpc.student\\source\\repos\\filecopy\\filecopy\\obj\\",
+      "outputPath": "F:\\T001_A\\AWT\\filecopy\\filecopy\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\sbmpc.student\\AppData\\Roaming\\NuGet\\NuGet.Config",
