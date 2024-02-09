@@ -1,0 +1,14 @@
+C:\Users\sbmpc.student\source\repos\filecopy\filecopy\bin\Debug\net8.0\filecopy.exe
+C:\Users\sbmpc.student\source\repos\filecopy\filecopy\bin\Debug\net8.0\filecopy.deps.json
+C:\Users\sbmpc.student\source\repos\filecopy\filecopy\bin\Debug\net8.0\filecopy.runtimeconfig.json
+C:\Users\sbmpc.student\source\repos\filecopy\filecopy\bin\Debug\net8.0\filecopy.dll
+C:\Users\sbmpc.student\source\repos\filecopy\filecopy\bin\Debug\net8.0\filecopy.pdb
+C:\Users\sbmpc.student\source\repos\filecopy\filecopy\obj\Debug\net8.0\filecopy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sbmpc.student\source\repos\filecopy\filecopy\obj\Debug\net8.0\filecopy.AssemblyInfoInputs.cache
+C:\Users\sbmpc.student\source\repos\filecopy\filecopy\obj\Debug\net8.0\filecopy.AssemblyInfo.cs
+C:\Users\sbmpc.student\source\repos\filecopy\filecopy\obj\Debug\net8.0\filecopy.csproj.CoreCompileInputs.cache
+C:\Users\sbmpc.student\source\repos\filecopy\filecopy\obj\Debug\net8.0\filecopy.dll
+C:\Users\sbmpc.student\source\repos\filecopy\filecopy\obj\Debug\net8.0\refint\filecopy.dll
+C:\Users\sbmpc.student\source\repos\filecopy\filecopy\obj\Debug\net8.0\filecopy.pdb
+C:\Users\sbmpc.student\source\repos\filecopy\filecopy\obj\Debug\net8.0\filecopy.genruntimeconfig.cache
+C:\Users\sbmpc.student\source\repos\filecopy\filecopy\obj\Debug\net8.0\ref\filecopy.dll
